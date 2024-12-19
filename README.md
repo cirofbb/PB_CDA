@@ -21,3 +21,6 @@ O projeto foi estruturado seguindo metodologias como CRISP-DM e TDSP para assegu
 - FastAPI - API para gerenciamento de dados externos.
 - Matplotlib e Seaborn - Visualizações complementares.
 - Git e GitHub - Controle de versão e hospedagem.
+
+O projeto está publicado no Streamlit Community através do link:
+https://cccg8z55ac8gusmvucyqkv.streamlit.app/
