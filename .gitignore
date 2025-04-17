@@ -1,3 +1,5 @@
+.gitignore
+
 # Ignorar arquivos temporários do VSCode
 .vscode/
 *.code-workspace
